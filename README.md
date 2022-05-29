@@ -1,5 +1,6 @@
 # Starship
-customizable prompt for any shell!
+
+Customizable prompt for any shell!
 
 Prerequisites
 A Nerd Font (opens new window)installed and enabled in your terminal 
